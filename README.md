@@ -1,5 +1,7 @@
 # Análisis del financiamiento del BCIE con datos abiertos (1960–2025)
 
+🌐 Read this project in English: [README_EN.md](README_EN.md)
+
 Este repositorio contiene el análisis del financiamiento otorgado por el Banco Centroamericano de Integración Económica (BCIE), utilizando datos abiertos de aprobaciones y desembolsos entre 1960 y 2025.
 
 El proyecto fue desarrollado como parte del **Concurso de Periodismo e Investigación para el Desarrollo – Datos Abiertos BCIE (2026)**.
