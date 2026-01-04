@@ -1,0 +1,411 @@
+PAIS,ANIO_DESEMBOLSO,SECTOR_INSTITUCIONAL,MONTO_BRUTO_USD,DECADA,TIPO
+Costa Rica,1965,Sector Público,1994591.79,1960,Desembolso
+El Salvador,1967,Sector Público,4695698.73,1960,Desembolso
+Honduras,1964,Sector Público,1262295.16,1960,Desembolso
+Guatemala,1964,Sector Público,2250000.0,1960,Desembolso
+Cuba,2024,Sector Público,28794236.23,2020,Desembolso
+Colombia,2016,Sector Público,186000000.0,2010,Desembolso
+Argentina,2017,Sector Público,2625000.0,2010,Desembolso
+República Dominicana,2009,Sector Público,46295306.17,2000,Desembolso
+México,2017,Sector Público,142500000.0,2010,Desembolso
+Belice,2010,Sector Público,500000.0,2010,Desembolso
+Costa Rica,1966,Sector Público,4650226.8,1960,Desembolso
+El Salvador,1974,Sector Privado,140000.0,1970,Desembolso
+Honduras,1989,Sector Público,14615167.31,1980,Desembolso
+Guatemala,1966,Sector Público,4263636.29,1960,Desembolso
+Colombia,2023,Sector Público,250000000.0,2020,Desembolso
+Argentina,2021,Sector Público,77249160.09,2020,Desembolso
+República Dominicana,2010,Sector Público,3704693.83,2010,Desembolso
+Belice,2013,Sector Público,3691017.74,2010,Desembolso
+Costa Rica,1969,Sector Público,1933.57,1960,Desembolso
+El Salvador,1976,Sector Público,11000000.0,1970,Desembolso
+Honduras,1991,Sector Público,3999178.26,1990,Desembolso
+Guatemala,1976,Sector Público,2875921.49,1970,Desembolso
+Colombia,2024,Sector Público,250000000.0,2020,Desembolso
+Argentina,2022,Sector Público,60440000.0,2020,Desembolso
+República Dominicana,2011,Sector Público,52345454.63,2010,Desembolso
+Belice,2014,Sector Público,3905047.9,2010,Desembolso
+Costa Rica,1974,Sector Privado,6000000.0,1970,Desembolso
+El Salvador,1981,Sector Público,3714320.0,1980,Desembolso
+Honduras,1992,Sector Privado,3500000.0,1990,Desembolso
+Guatemala,1981,Sector Público,26596147.91,1980,Desembolso
+Argentina,2023,Sector Público,453553783.98,2020,Desembolso
+República Dominicana,2012,Sector Público,97654545.37,2010,Desembolso
+Belice,2015,Sector Público,4435521.5,2010,Desembolso
+Costa Rica,1975,Sector Público,2832769.52,1970,Desembolso
+El Salvador,1982,Sector Público,3989674.82,1980,Desembolso
+Honduras,1992,Sector Público,9389878.0,1990,Desembolso
+Guatemala,1988,Sector Público,13600000.0,1980,Desembolso
+Argentina,2024,Sector Público,171460208.49,2020,Desembolso
+República Dominicana,2013,Sector Público,80200000.0,2010,Desembolso
+Belice,2018,Sector Público,3473733.82,2010,Desembolso
+Costa Rica,1976,Sector Público,15100000.0,1970,Desembolso
+El Salvador,1987,Sector Público,1611007.24,1980,Desembolso
+Honduras,1993,Sector Privado,177511.76,1990,Desembolso
+Guatemala,1989,Sector Privado,12840791.32,1980,Desembolso
+Argentina,2025,Sector Público,108957475.79,2020,Desembolso
+República Dominicana,2017,Sector Público,40000000.0,2010,Desembolso
+Belice,2023,Sector Público,2320801.37,2020,Desembolso
+Costa Rica,1978,Sector Público,200000.0,1970,Desembolso
+El Salvador,1988,Sector Público,22210860.81,1980,Desembolso
+Honduras,1994,Sector Privado,2016878.82,1990,Desembolso
+Guatemala,1989,Sector Público,15216417.5,1980,Desembolso
+República Dominicana,2018,Sector Privado,107000000.0,2010,Desembolso
+Belice,2024,Sector Público,4179618.56,2020,Desembolso
+Costa Rica,1980,Sector Público,148750.0,1980,Desembolso
+El Salvador,1989,Sector Público,5870608.12,1980,Desembolso
+Honduras,1994,Sector Público,12489635.56,1990,Desembolso
+Guatemala,1991,Sector Privado,6500000.0,1990,Desembolso
+República Dominicana,2018,Sector Público,234757378.41,2010,Desembolso
+Belice,2025,Sector Público,5163520.0,2020,Desembolso
+Costa Rica,1981,Sector Público,597800.0,1980,Desembolso
+El Salvador,1991,Sector Público,2731206.28,1990,Desembolso
+Honduras,1995,Sector Privado,10933192.63,1990,Desembolso
+Guatemala,1991,Sector Público,5706151.16,1990,Desembolso
+República Dominicana,2019,Sector Privado,5000000.0,2010,Desembolso
+Panamá,2007,Sector Privado,4384335.14,2000,Desembolso
+Costa Rica,1983,Sector Público,4838148.38,1980,Desembolso
+El Salvador,1992,Sector Público,4083478.9,1990,Desembolso
+Honduras,1995,Sector Público,5842211.91,1990,Desembolso
+Guatemala,1992,Sector Privado,350000.0,1990,Desembolso
+República Dominicana,2019,Sector Público,127779997.85,2010,Desembolso
+Panamá,2008,Sector Privado,5361566.48,2000,Desembolso
+Costa Rica,1986,Sector Público,2365397.85,1980,Desembolso
+El Salvador,1993,Sector Público,4357798.17,1990,Desembolso
+Honduras,1996,Sector Privado,28425432.81,1990,Desembolso
+Guatemala,1993,Sector Privado,6300000.0,1990,Desembolso
+República Dominicana,2020,Sector Público,57149730.33,2020,Desembolso
+Panamá,2009,Sector Privado,4199453.56,2000,Desembolso
+Costa Rica,1988,Sector Público,10264234.57,1980,Desembolso
+El Salvador,1994,Sector Privado,3130000.0,1990,Desembolso
+Honduras,1996,Sector Público,12137176.81,1990,Desembolso
+Guatemala,1993,Sector Público,800000.0,1990,Desembolso
+República Dominicana,2021,Sector Público,25948158.7,2020,Desembolso
+Panamá,2010,Sector Privado,3512750.47,2010,Desembolso
+Costa Rica,1989,Sector Público,792130.01,1980,Desembolso
+El Salvador,1994,Sector Público,30000000.0,1990,Desembolso
+Honduras,1997,Sector Privado,61301853.56,1990,Desembolso
+Guatemala,1994,Sector Privado,5365975.52,1990,Desembolso
+República Dominicana,2022,Sector Público,28211676.67,2020,Desembolso
+Panamá,2011,Sector Privado,9116142.97,2010,Desembolso
+Costa Rica,1991,Sector Público,6000000.0,1990,Desembolso
+El Salvador,1995,Sector Privado,10180095.41,1990,Desembolso
+Honduras,1997,Sector Público,17560034.11,1990,Desembolso
+Guatemala,1994,Sector Público,2937789.07,1990,Desembolso
+República Dominicana,2023,Sector Público,417008562.04,2020,Desembolso
+Panamá,2012,Sector Privado,1606303.0,2010,Desembolso
+Costa Rica,1992,Sector Privado,3975165.9,1990,Desembolso
+El Salvador,1996,Sector Privado,38087085.25,1990,Desembolso
+Honduras,1998,Sector Privado,124484375.01,1990,Desembolso
+Guatemala,1995,Sector Privado,2261731.69,1990,Desembolso
+República Dominicana,2024,Sector Público,55000000.0,2020,Desembolso
+Panamá,2013,Sector Privado,11244123.0,2010,Desembolso
+Costa Rica,1992,Sector Público,20011740.23,1990,Desembolso
+El Salvador,1996,Sector Público,60846887.26,1990,Desembolso
+Honduras,1998,Sector Público,15736379.15,1990,Desembolso
+Guatemala,1995,Sector Público,20229163.22,1990,Desembolso
+República Dominicana,2025,Sector Público,71300000.0,2020,Desembolso
+Panamá,2014,Sector Privado,49714074.0,2010,Desembolso
+Costa Rica,1993,Sector Privado,2711272.0,1990,Desembolso
+El Salvador,1997,Sector Privado,32752465.34,1990,Desembolso
+Honduras,1999,Sector Privado,78839069.3,1990,Desembolso
+Guatemala,1996,Sector Privado,22466535.15,1990,Desembolso
+Panamá,2015,Sector Privado,14745012.19,2010,Desembolso
+Costa Rica,1993,Sector Público,8487685.0,1990,Desembolso
+El Salvador,1997,Sector Público,40931261.88,1990,Desembolso
+Honduras,1999,Sector Público,4440752.27,1990,Desembolso
+Guatemala,1996,Sector Público,62127002.54,1990,Desembolso
+Panamá,2016,Sector Privado,100253432.84,2010,Desembolso
+Costa Rica,1994,Sector Privado,4786385.27,1990,Desembolso
+El Salvador,1998,Sector Privado,33942151.73,1990,Desembolso
+Honduras,2000,Sector Privado,44410351.88,2000,Desembolso
+Guatemala,1997,Sector Privado,37336373.32,1990,Desembolso
+Panamá,2017,Sector Privado,90649900.16,2010,Desembolso
+Costa Rica,1996,Sector Privado,32468797.85,1990,Desembolso
+El Salvador,1998,Sector Público,106767228.69,1990,Desembolso
+Honduras,2000,Sector Público,33404702.33,2000,Desembolso
+Guatemala,1997,Sector Público,76283563.33,1990,Desembolso
+Panamá,2017,Sector Público,100000000.0,2010,Desembolso
+Costa Rica,1996,Sector Público,589177024.17,1990,Desembolso
+El Salvador,1999,Sector Privado,62157015.4,1990,Desembolso
+Honduras,2001,Sector Privado,51619565.78,2000,Desembolso
+Guatemala,1998,Sector Privado,48912489.63,1990,Desembolso
+Panamá,2018,Sector Privado,145497430.08,2010,Desembolso
+Costa Rica,1997,Sector Privado,57956457.36,1990,Desembolso
+El Salvador,1999,Sector Público,17959194.52,1990,Desembolso
+Honduras,2001,Sector Público,18581932.19,2000,Desembolso
+Guatemala,1998,Sector Público,105102678.55,1990,Desembolso
+Panamá,2018,Sector Público,150000000.0,2010,Desembolso
+Costa Rica,1997,Sector Público,85939375.49,1990,Desembolso
+El Salvador,2000,Sector Privado,23676073.09,2000,Desembolso
+Honduras,2002,Sector Privado,60469134.63,2000,Desembolso
+Guatemala,1999,Sector Privado,91648258.83,1990,Desembolso
+Panamá,2019,Sector Privado,168721434.58,2010,Desembolso
+Costa Rica,1998,Sector Privado,75415820.77,1990,Desembolso
+El Salvador,2000,Sector Público,15526896.27,2000,Desembolso
+Honduras,2002,Sector Público,2854411.0,2000,Desembolso
+Guatemala,1999,Sector Público,91857908.55,1990,Desembolso
+Panamá,2019,Sector Público,158437500.0,2010,Desembolso
+Costa Rica,1998,Sector Público,59535729.32,1990,Desembolso
+El Salvador,2001,Sector Privado,116917225.94,2000,Desembolso
+Honduras,2003,Sector Privado,55584862.54,2000,Desembolso
+Guatemala,2000,Sector Privado,80897548.08,2000,Desembolso
+Panamá,2020,Sector Privado,121058109.38,2020,Desembolso
+Costa Rica,1999,Sector Privado,101996446.15,1990,Desembolso
+El Salvador,2001,Sector Público,97076349.53,2000,Desembolso
+Honduras,2003,Sector Público,10774589.9,2000,Desembolso
+Guatemala,2000,Sector Público,51666606.66,2000,Desembolso
+Panamá,2020,Sector Público,616928125.0,2020,Desembolso
+Costa Rica,1999,Sector Público,39950938.59,1990,Desembolso
+El Salvador,2002,Sector Privado,211836406.31,2000,Desembolso
+Honduras,2004,Sector Privado,162189037.65,2000,Desembolso
+Guatemala,2001,Sector Privado,69790927.08,2000,Desembolso
+Panamá,2021,Sector Público,26000000.0,2020,Desembolso
+Costa Rica,2000,Sector Privado,141129064.96,2000,Desembolso
+El Salvador,2002,Sector Público,143735236.32,2000,Desembolso
+Honduras,2004,Sector Público,24529616.61,2000,Desembolso
+Guatemala,2001,Sector Público,42449885.33,2000,Desembolso
+Panamá,2022,Sector Público,55000000.0,2020,Desembolso
+Costa Rica,2000,Sector Público,46194879.94,2000,Desembolso
+El Salvador,2003,Sector Privado,244874705.19,2000,Desembolso
+Honduras,2005,Sector Privado,112898512.7,2000,Desembolso
+Guatemala,2002,Sector Privado,257843455.53,2000,Desembolso
+Panamá,2023,Sector Privado,40202232.0,2020,Desembolso
+Costa Rica,2001,Sector Privado,178621107.31,2000,Desembolso
+El Salvador,2003,Sector Público,211198193.02,2000,Desembolso
+Honduras,2005,Sector Público,22554981.99,2000,Desembolso
+Guatemala,2002,Sector Público,53970291.48,2000,Desembolso
+Panamá,2023,Sector Público,90424308.7,2020,Desembolso
+Costa Rica,2001,Sector Público,22775771.11,2000,Desembolso
+El Salvador,2004,Sector Privado,230185193.09,2000,Desembolso
+Honduras,2006,Sector Privado,150041391.84,2000,Desembolso
+Guatemala,2003,Sector Privado,223586653.58,2000,Desembolso
+Panamá,2024,Sector Público,394286437.37,2020,Desembolso
+Costa Rica,2002,Sector Privado,261536279.49,2000,Desembolso
+El Salvador,2004,Sector Público,187164478.86,2000,Desembolso
+Honduras,2006,Sector Público,24211332.61,2000,Desembolso
+Guatemala,2003,Sector Público,60128872.57,2000,Desembolso
+Panamá,2025,Sector Privado,50000000.0,2020,Desembolso
+Costa Rica,2002,Sector Público,69446549.62,2000,Desembolso
+El Salvador,2005,Sector Privado,146140326.57,2000,Desembolso
+Honduras,2007,Sector Privado,152326186.19,2000,Desembolso
+Guatemala,2004,Sector Privado,122172473.34,2000,Desembolso
+Panamá,2025,Sector Público,58512293.36,2020,Desembolso
+Costa Rica,2003,Sector Privado,154496968.81,2000,Desembolso
+El Salvador,2005,Sector Público,261125341.6,2000,Desembolso
+Honduras,2007,Sector Público,17773854.22,2000,Desembolso
+Guatemala,2004,Sector Público,70154028.26,2000,Desembolso
+Costa Rica,2003,Sector Público,150932923.06,2000,Desembolso
+El Salvador,2006,Sector Privado,141877146.18,2000,Desembolso
+Honduras,2008,Sector Privado,176959577.19,2000,Desembolso
+Guatemala,2005,Sector Privado,271797992.18,2000,Desembolso
+Costa Rica,2004,Sector Privado,130797815.29,2000,Desembolso
+El Salvador,2006,Sector Público,254508602.08,2000,Desembolso
+Honduras,2008,Sector Público,24816948.13,2000,Desembolso
+Guatemala,2005,Sector Público,61530211.51,2000,Desembolso
+Costa Rica,2004,Sector Público,136643216.09,2000,Desembolso
+El Salvador,2007,Sector Privado,66072010.45,2000,Desembolso
+Honduras,2009,Sector Privado,17004800.05,2000,Desembolso
+Guatemala,2006,Sector Privado,371576754.89,2000,Desembolso
+Costa Rica,2005,Sector Privado,149115643.75,2000,Desembolso
+El Salvador,2007,Sector Público,87936352.38,2000,Desembolso
+Honduras,2009,Sector Público,21099904.92,2000,Desembolso
+Guatemala,2006,Sector Público,228999325.6,2000,Desembolso
+Costa Rica,2005,Sector Público,173304411.14,2000,Desembolso
+El Salvador,2008,Sector Privado,26705237.24,2000,Desembolso
+Honduras,2010,Sector Privado,66815616.36,2010,Desembolso
+Guatemala,2007,Sector Privado,426582549.35,2000,Desembolso
+Costa Rica,2006,Sector Privado,140639848.48,2000,Desembolso
+El Salvador,2008,Sector Público,438150694.89,2000,Desembolso
+Honduras,2010,Sector Público,163007343.69,2010,Desembolso
+Guatemala,2007,Sector Público,246222894.15,2000,Desembolso
+Costa Rica,2006,Sector Público,179957891.3,2000,Desembolso
+El Salvador,2009,Sector Privado,20933805.27,2000,Desembolso
+Honduras,2011,Sector Privado,159032634.24,2010,Desembolso
+Guatemala,2008,Sector Privado,191232531.14,2000,Desembolso
+Costa Rica,2007,Sector Privado,167869512.36,2000,Desembolso
+El Salvador,2009,Sector Público,376317199.95,2000,Desembolso
+Honduras,2011,Sector Público,106215252.73,2010,Desembolso
+Guatemala,2008,Sector Público,102898568.07,2000,Desembolso
+Costa Rica,2007,Sector Público,214941771.59,2000,Desembolso
+El Salvador,2010,Sector Privado,16902853.01,2010,Desembolso
+Honduras,2012,Sector Privado,115816604.49,2010,Desembolso
+Guatemala,2009,Sector Privado,52323509.19,2000,Desembolso
+Costa Rica,2008,Sector Privado,231148092.55,2000,Desembolso
+El Salvador,2010,Sector Público,189098188.84,2010,Desembolso
+Honduras,2012,Sector Público,166396681.37,2010,Desembolso
+Guatemala,2009,Sector Público,68902966.0,2000,Desembolso
+Costa Rica,2008,Sector Público,317219017.14,2000,Desembolso
+El Salvador,2011,Sector Privado,42228062.09,2010,Desembolso
+Honduras,2013,Sector Privado,96689925.96,2010,Desembolso
+Guatemala,2010,Sector Privado,36134552.12,2010,Desembolso
+Costa Rica,2009,Sector Privado,125581244.74,2000,Desembolso
+El Salvador,2011,Sector Público,140611433.68,2010,Desembolso
+Honduras,2013,Sector Público,195132686.03,2010,Desembolso
+Guatemala,2010,Sector Público,136185230.12,2010,Desembolso
+Costa Rica,2009,Sector Público,340194187.15,2000,Desembolso
+El Salvador,2012,Sector Privado,10575454.82,2010,Desembolso
+Honduras,2014,Sector Privado,213317468.65,2010,Desembolso
+Guatemala,2011,Sector Privado,49254768.94,2010,Desembolso
+Costa Rica,2010,Sector Privado,117872299.72,2010,Desembolso
+El Salvador,2012,Sector Público,303847224.01,2010,Desembolso
+Honduras,2014,Sector Público,53612824.91,2010,Desembolso
+Guatemala,2011,Sector Público,325308200.01,2010,Desembolso
+Costa Rica,2010,Sector Público,307494016.78,2010,Desembolso
+El Salvador,2013,Sector Privado,12915509.11,2010,Desembolso
+Honduras,2015,Sector Privado,162802714.74,2010,Desembolso
+Guatemala,2012,Sector Privado,101097094.97,2010,Desembolso
+Costa Rica,2011,Sector Privado,129180679.94,2010,Desembolso
+El Salvador,2013,Sector Público,275150386.09,2010,Desembolso
+Honduras,2015,Sector Público,89850379.33,2010,Desembolso
+Guatemala,2012,Sector Público,56727959.42,2010,Desembolso
+Costa Rica,2011,Sector Público,262155542.18,2010,Desembolso
+El Salvador,2014,Sector Privado,55398159.9,2010,Desembolso
+Honduras,2016,Sector Privado,54608001.52,2010,Desembolso
+Guatemala,2013,Sector Privado,75833221.09,2010,Desembolso
+Costa Rica,2012,Sector Privado,125005647.36,2010,Desembolso
+El Salvador,2014,Sector Público,256630283.92,2010,Desembolso
+Honduras,2016,Sector Público,87907493.91,2010,Desembolso
+Guatemala,2013,Sector Público,88722648.42,2010,Desembolso
+Costa Rica,2012,Sector Público,326250718.42,2010,Desembolso
+El Salvador,2015,Sector Privado,62990985.51,2010,Desembolso
+Honduras,2017,Sector Privado,65326523.64,2010,Desembolso
+Guatemala,2014,Sector Privado,107151955.28,2010,Desembolso
+Costa Rica,2013,Sector Privado,94506073.69,2010,Desembolso
+El Salvador,2015,Sector Público,263615680.78,2010,Desembolso
+Honduras,2017,Sector Público,134833706.19,2010,Desembolso
+Guatemala,2014,Sector Público,90888250.23,2010,Desembolso
+Costa Rica,2013,Sector Público,360113065.55,2010,Desembolso
+El Salvador,2016,Sector Privado,30019105.84,2010,Desembolso
+Honduras,2018,Sector Privado,126720649.78,2010,Desembolso
+Guatemala,2015,Sector Privado,117236198.5,2010,Desembolso
+Costa Rica,2014,Sector Privado,79730745.17,2010,Desembolso
+El Salvador,2016,Sector Público,333405012.69,2010,Desembolso
+Honduras,2018,Sector Público,77873759.83,2010,Desembolso
+Guatemala,2015,Sector Público,125272149.86,2010,Desembolso
+Costa Rica,2014,Sector Público,475951304.53,2010,Desembolso
+El Salvador,2017,Sector Privado,13701201.52,2010,Desembolso
+Honduras,2019,Sector Privado,187506368.76,2010,Desembolso
+Guatemala,2016,Sector Privado,58823948.71,2010,Desembolso
+Costa Rica,2015,Sector Privado,102281789.23,2010,Desembolso
+El Salvador,2017,Sector Público,297725601.71,2010,Desembolso
+Honduras,2019,Sector Público,90661391.85,2010,Desembolso
+Guatemala,2016,Sector Público,98668720.57,2010,Desembolso
+Costa Rica,2015,Sector Público,362676480.51,2010,Desembolso
+El Salvador,2018,Sector Privado,5867691.41,2010,Desembolso
+Honduras,2020,Sector Privado,155664107.0,2020,Desembolso
+Guatemala,2017,Sector Privado,49829908.15,2010,Desembolso
+Costa Rica,2016,Sector Privado,82000000.0,2010,Desembolso
+El Salvador,2018,Sector Público,187030781.94,2010,Desembolso
+Honduras,2020,Sector Público,548978114.68,2020,Desembolso
+Guatemala,2017,Sector Público,19589363.66,2010,Desembolso
+Costa Rica,2016,Sector Público,291170554.06,2010,Desembolso
+El Salvador,2019,Sector Privado,49593660.8,2010,Desembolso
+Honduras,2021,Sector Privado,112401642.41,2020,Desembolso
+Guatemala,2018,Sector Privado,73776061.1,2010,Desembolso
+Costa Rica,2017,Sector Privado,57950000.0,2010,Desembolso
+El Salvador,2019,Sector Público,208049550.76,2010,Desembolso
+Honduras,2021,Sector Público,138157210.34,2020,Desembolso
+Guatemala,2018,Sector Público,41281076.53,2010,Desembolso
+Costa Rica,2017,Sector Público,223102723.34,2010,Desembolso
+El Salvador,2020,Sector Privado,33275200.0,2020,Desembolso
+Honduras,2022,Sector Privado,92800000.0,2020,Desembolso
+Guatemala,2019,Sector Privado,144358045.24,2010,Desembolso
+Costa Rica,2018,Sector Privado,30587000.0,2010,Desembolso
+El Salvador,2020,Sector Público,213680643.43,2020,Desembolso
+Honduras,2022,Sector Público,368732978.17,2020,Desembolso
+Guatemala,2019,Sector Público,12582676.62,2010,Desembolso
+Costa Rica,2018,Sector Público,270007882.65,2010,Desembolso
+El Salvador,2021,Sector Privado,17378500.0,2020,Desembolso
+Honduras,2023,Sector Privado,12200000.0,2020,Desembolso
+Guatemala,2020,Sector Privado,110647827.31,2020,Desembolso
+Costa Rica,2019,Sector Privado,48718872.21,2010,Desembolso
+El Salvador,2021,Sector Público,1024406050.98,2020,Desembolso
+Honduras,2023,Sector Público,106153000.0,2020,Desembolso
+Guatemala,2020,Sector Público,19778064.35,2020,Desembolso
+Costa Rica,2019,Sector Público,398392780.39,2010,Desembolso
+El Salvador,2022,Sector Privado,65400000.0,2020,Desembolso
+Honduras,2024,Sector Privado,1500000.0,2020,Desembolso
+Guatemala,2021,Sector Privado,76000000.0,2020,Desembolso
+Costa Rica,2020,Sector Privado,50566900.0,2020,Desembolso
+El Salvador,2022,Sector Público,502208936.65,2020,Desembolso
+Honduras,2024,Sector Público,257792316.88,2020,Desembolso
+Guatemala,2021,Sector Público,27969471.0,2020,Desembolso
+Costa Rica,2020,Sector Público,196693619.53,2020,Desembolso
+El Salvador,2023,Sector Privado,8500000.0,2020,Desembolso
+Honduras,2025,Sector Privado,85000000.0,2020,Desembolso
+Guatemala,2022,Sector Privado,73500000.0,2020,Desembolso
+Costa Rica,2021,Sector Privado,8072000.0,2020,Desembolso
+El Salvador,2023,Sector Público,628064933.49,2020,Desembolso
+Honduras,2025,Sector Público,110393643.03,2020,Desembolso
+Guatemala,2022,Sector Público,2636416.89,2020,Desembolso
+Costa Rica,2021,Sector Público,170249236.03,2020,Desembolso
+El Salvador,2024,Sector Privado,158000.0,2020,Desembolso
+Nicaragua,1970,Sector Privado,64870.77,1970,Desembolso
+Guatemala,2023,Sector Privado,8350000.0,2020,Desembolso
+Costa Rica,2022,Sector Privado,26854676.77,2020,Desembolso
+El Salvador,2024,Sector Público,186538524.61,2020,Desembolso
+Nicaragua,1995,Sector Privado,477000.0,1990,Desembolso
+Guatemala,2023,Sector Público,16427053.49,2020,Desembolso
+Costa Rica,2022,Sector Público,420378335.7,2020,Desembolso
+El Salvador,2025,Sector Público,174994526.1,2020,Desembolso
+Nicaragua,1996,Sector Privado,16715668.49,1990,Desembolso
+Guatemala,2024,Sector Privado,44700000.0,2020,Desembolso
+Costa Rica,2023,Sector Privado,12000000.0,2020,Desembolso
+Nicaragua,1997,Sector Privado,2695865.61,1990,Desembolso
+Guatemala,2024,Sector Público,40937043.67,2020,Desembolso
+Costa Rica,2023,Sector Público,101541137.77,2020,Desembolso
+Nicaragua,1997,Sector Público,504927160.33,1990,Desembolso
+Guatemala,2025,Sector Privado,61277215.39,2020,Desembolso
+Costa Rica,2024,Sector Privado,2000000.0,2020,Desembolso
+Nicaragua,1998,Sector Privado,3223833.36,1990,Desembolso
+Guatemala,2025,Sector Público,159310.33,2020,Desembolso
+Costa Rica,2024,Sector Público,107289275.58,2020,Desembolso
+Nicaragua,1998,Sector Público,47401387.28,1990,Desembolso
+Costa Rica,2025,Sector Privado,37277500.0,2020,Desembolso
+Nicaragua,1999,Sector Privado,32421825.6,1990,Desembolso
+Costa Rica,2025,Sector Público,354095549.8,2020,Desembolso
+Nicaragua,2000,Sector Privado,20592576.98,2000,Desembolso
+Nicaragua,2001,Sector Privado,34258500.33,2000,Desembolso
+Nicaragua,2002,Sector Privado,57807168.26,2000,Desembolso
+Nicaragua,2003,Sector Privado,40848926.46,2000,Desembolso
+Nicaragua,2004,Sector Privado,34711462.23,2000,Desembolso
+Nicaragua,2004,Sector Público,6978800.38,2000,Desembolso
+Nicaragua,2005,Sector Privado,95304070.63,2000,Desembolso
+Nicaragua,2005,Sector Público,12521199.59,2000,Desembolso
+Nicaragua,2006,Sector Privado,156333127.08,2000,Desembolso
+Nicaragua,2007,Sector Privado,90903733.7,2000,Desembolso
+Nicaragua,2008,Sector Privado,151971507.6,2000,Desembolso
+Nicaragua,2009,Sector Privado,119500121.97,2000,Desembolso
+Nicaragua,2009,Sector Público,12520949.68,2000,Desembolso
+Nicaragua,2010,Sector Privado,73820225.39,2010,Desembolso
+Nicaragua,2010,Sector Público,41113023.82,2010,Desembolso
+Nicaragua,2011,Sector Privado,60574324.76,2010,Desembolso
+Nicaragua,2011,Sector Público,35866626.01,2010,Desembolso
+Nicaragua,2012,Sector Privado,87281183.82,2010,Desembolso
+Nicaragua,2012,Sector Público,40313245.83,2010,Desembolso
+Nicaragua,2013,Sector Privado,80819174.6,2010,Desembolso
+Nicaragua,2013,Sector Público,69479795.69,2010,Desembolso
+Nicaragua,2014,Sector Privado,81808964.78,2010,Desembolso
+Nicaragua,2014,Sector Público,96129164.48,2010,Desembolso
+Nicaragua,2015,Sector Privado,83889866.13,2010,Desembolso
+Nicaragua,2015,Sector Público,113625420.32,2010,Desembolso
+Nicaragua,2016,Sector Privado,77940533.31,2010,Desembolso
+Nicaragua,2016,Sector Público,131037874.09,2010,Desembolso
+Nicaragua,2017,Sector Privado,73772918.29,2010,Desembolso
+Nicaragua,2017,Sector Público,139284109.91,2010,Desembolso
+Nicaragua,2018,Sector Privado,87418334.8,2010,Desembolso
+Nicaragua,2018,Sector Público,318484539.38,2010,Desembolso
+Nicaragua,2019,Sector Privado,117691377.54,2010,Desembolso
+Nicaragua,2019,Sector Público,216375481.8,2010,Desembolso
+Nicaragua,2020,Sector Privado,93774193.5,2020,Desembolso
+Nicaragua,2020,Sector Público,320614351.64,2020,Desembolso
+Nicaragua,2021,Sector Privado,40330820.52,2020,Desembolso
+Nicaragua,2021,Sector Público,406184818.94,2020,Desembolso
+Nicaragua,2022,Sector Privado,14200000.0,2020,Desembolso
+Nicaragua,2022,Sector Público,453534010.55,2020,Desembolso
+Nicaragua,2023,Sector Privado,12500000.0,2020,Desembolso
+Nicaragua,2023,Sector Público,543445989.08,2020,Desembolso
+Nicaragua,2024,Sector Privado,2500000.0,2020,Desembolso
+Nicaragua,2024,Sector Público,357764360.54,2020,Desembolso
+Nicaragua,2025,Sector Público,268957863.4,2020,Desembolso
