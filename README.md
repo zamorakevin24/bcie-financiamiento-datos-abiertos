@@ -4,7 +4,6 @@ Este repositorio contiene el análisis del financiamiento otorgado por el Banco 
 
 El proyecto fue desarrollado como parte del **Concurso de Periodismo e Investigación para el Desarrollo – Datos Abiertos BCIE (2026)**.
 
----
 
 ## Alcance del análisis
 
@@ -16,7 +15,6 @@ El análisis aborda:
 - Distribución del financiamiento por **sector institucional** (público y privado).
 - Evolución sectorial del financiamiento a lo largo del tiempo.
 
----
 
 ## Herramientas utilizadas
 
@@ -26,7 +24,6 @@ El análisis aborda:
 - Matplotlib
 - Jupyter Notebook
 
----
 
 ##  Estructura del repositorio
 
@@ -47,13 +44,11 @@ BCIE/
 |
 └── README.md
 
----
 
 ## Nota
 
 El informe final fue entregado en formato PDF como parte del proceso de inscripción al concurso y **no se incluye en este repositorio**, el cual se enfoca exclusivamente en la reproducibilidad y documentación del análisis de datos.
 
----
 
 ## Autor
 
