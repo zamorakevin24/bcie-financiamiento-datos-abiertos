@@ -33,6 +33,8 @@ El informe final fue entregado en formato PDF como parte del proceso de inscripc
 ## Autor
 
 **Kevin Zamora**  
+GitHub: https://github.com/zamorakevin24   
+LinkedIn: www.linkedin.com/in/kevinzamora24
 Análisis de datos · Python · Visualización  
 
 
