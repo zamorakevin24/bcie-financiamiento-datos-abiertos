@@ -25,26 +25,6 @@ El análisis aborda:
 - Jupyter Notebook
 
 
-##  Estructura del repositorio
-
-BCIE/
-├── datos/
-│ ├── aprobaciones_limpias.csv
-│ ├── desembolsos_limpios.csv
-│ └── otros archivos de datos
-|
-├── figures/
-│ ├── visualizaciones exportadas
-|
-├── notebooks/
-│ ├── 01_exploracion_de_datos.ipynb
-│ ├── 02_graficos.ipynb
-│ ├── 03_distribucion.ipynb
-│ ├── 04_evolucion_sectorial_decadas.ipynb
-|
-└── README.md
-
-
 ## Nota
 
 El informe final fue entregado en formato PDF como parte del proceso de inscripción al concurso y **no se incluye en este repositorio**, el cual se enfoca exclusivamente en la reproducibilidad y documentación del análisis de datos.
